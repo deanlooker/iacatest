@@ -1,4 +1,4 @@
-connection: "looker_bq_prd"
+connection: "phish_thesis"
 label: "Mobile Master Data"
 #{
 include: "/views/firebase_bq/*.view.lkml"

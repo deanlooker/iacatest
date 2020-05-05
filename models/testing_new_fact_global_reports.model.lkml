@@ -1,4 +1,4 @@
-connection: "apalon_snowflake"
+connection: "phish_thesis"
 #{
 include: "/views/test_reports/*.view.lkml"
 include: "/views/dqm/business_lvl_data_check.view.lkml"

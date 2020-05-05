@@ -1,4 +1,4 @@
-connection: "apalon_snowflake"
+connection: "phish_thesis"
 #{
 include: "/views/google_play/*.view.lkml"
 include: "/views/transactional_mapping/accounting_sku_mapping.view.lkml"

@@ -1,4 +1,4 @@
-connection: "mosaic_snowflake"
+connection: "phish_thesis"
 #{
 include: "/config.lkml"
 include: "/views/mosaic_mapping/*.view.lkml"

@@ -1,4 +1,4 @@
-connection: "apalon_snowflake"
+connection: "phish_thesis"
 #{
 include: "/config.lkml"
 include: "/views/apple/itunes_report/*.view.lkml"

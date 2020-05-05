@@ -1,4 +1,4 @@
-connection: "apalon_snowflake"
+connection: "phish_thesis"
 #{
 include: "/config.lkml"
 include: "/views/ab_testing/*.view.lkml"

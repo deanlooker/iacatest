@@ -1,4 +1,4 @@
-connection: "apalon_snowflake"
+connection: "phish_thesis"
 label: "Mobile Bookings Data Mart"
 #{
 include: "/config.lkml"

@@ -1,4 +1,4 @@
-connection: "looker_bq_poc"
+connection: "phish_thesis"
 #{
 include: "/views/firebase_bq/migration_data_validation.view.lkml"
 include: "/views/firebase_bq/migration_validation_new.view.lkml"

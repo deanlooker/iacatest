@@ -1,4 +1,4 @@
-connection: "apalon_pgsql"
+connection: "phish_thesis"
 
 include: "/team_exec_dash_b2b_b2c_pivot.view.lkml"         # include all views in this project
 #include: "*.dashboard.lookml"  # include all dashboards in this project

@@ -1,4 +1,4 @@
-connection: "apalon_app_messages_mysql"
+connection: "phish_thesis"
 # Not queried within last 90 days
 #{
 include: "/config.lkml"

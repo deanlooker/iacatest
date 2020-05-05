@@ -1,4 +1,4 @@
-connection: "noaa_firebase"
+connection: "phish_thesis"
 #{
 include: "/views/noaa_bq/*.view.lkml"
 #}
